@@ -1,0 +1,27 @@
+{
+    "name": "Kios Ayam Crispy Sambal Geprek Joana",
+    "short_name": "Kios Ayam Joana",
+    "description": "Ayam crispy & geprek lezat, pedas, harga terjangkau. Pesan online, antar cepat!",
+    "start_url": "/kios_ayam/index.php",
+    "scope": "/kios_ayam/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#FBF9F7",
+    "theme_color": "#E63946",
+    "lang": "id",
+    "categories": ["food", "shopping"],
+    "icons": [
+        {
+            "src": "gambar/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "gambar/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
